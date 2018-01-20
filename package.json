@@ -1,0 +1,15 @@
+{
+  "name": "@snehal96/node",
+  "version": "1.0.2",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "snehal",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.1"
+  },
+  "repository": "https://github.com/snehal96/hello.world"
+}
